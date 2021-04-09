@@ -1,7 +1,17 @@
-### Hi there 👋
+# Full stack Developer 
+
+ In love building stuff from scratch and touch a bit everything! 
+ 
+ Specialized in:
+ - Mobile development in Flutter and React Native.
+ - Frontend development in React, Angular and VueJS.
+ - Mobile development in Loopback (v3 and v4), Strapi and many more.
+ 
+
+![](https://github-readme-stats.vercel.app/api?username=marcostoduto&&show_icons=true&theme=dark)
 
 <!--
-**marcostoduto/marcostoduto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jaumard/jaumard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
