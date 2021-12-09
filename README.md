@@ -4,7 +4,7 @@
  
  Specialized in:
  - Mobile development in Flutter and React Native.
- - Frontend development in React, Angular and VueJS.
+ - Frontend development in React, NextJS, Angular and VueJS.
  - Mobile development in Loopback (v3 and v4), Strapi and many more.
  
 
