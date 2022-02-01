@@ -1,5 +1,7 @@
 # Full stack Developer 
 
+ Head of IT @[JEToP](http://www.jetop.com)
+ 
  In love building stuff from scratch and touch a bit everything! 
  
  Specialized in:
