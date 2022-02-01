@@ -6,8 +6,8 @@
  
  Specialized in:
  - Mobile development in Flutter and React Native.
- - Frontend development in React, NextJS, Angular and VueJS.
- - Mobile development in Loopback (v3 and v4), Strapi and many more.
+ - Front-end development in React, NextJS, Angular and VueJS.
+ - Back-end development in Loopback (v3 and v4), Strapi and many more.
  
 
 ![](https://github-readme-stats.vercel.app/api?username=marcostoduto&&show_icons=true&theme=dark)
