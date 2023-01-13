@@ -10,7 +10,7 @@
  - Back-end development in Loopback (v3 and v4), Strapi and many more.
  
 
-![](https://github-readme-stats.vercel.app/api?username=marcostoduto&&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=marcostoduto)
 
 <!--
 **jaumard/jaumard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
